@@ -1,0 +1,6 @@
+C:\Users\AMRITA\source\repos\Generic_method\Generic_method\bin\Debug\Generic_method.exe.config
+C:\Users\AMRITA\source\repos\Generic_method\Generic_method\bin\Debug\Generic_method.exe
+C:\Users\AMRITA\source\repos\Generic_method\Generic_method\bin\Debug\Generic_method.pdb
+C:\Users\AMRITA\source\repos\Generic_method\Generic_method\obj\Debug\Generic_method.csproj.CoreCompileInputs.cache
+C:\Users\AMRITA\source\repos\Generic_method\Generic_method\obj\Debug\Generic_method.exe
+C:\Users\AMRITA\source\repos\Generic_method\Generic_method\obj\Debug\Generic_method.pdb

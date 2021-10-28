@@ -1,0 +1,6 @@
+C:\Users\AMRITA\source\repos\Get_Set\Get_Set\bin\Debug\Get_Set.exe.config
+C:\Users\AMRITA\source\repos\Get_Set\Get_Set\bin\Debug\Get_Set.exe
+C:\Users\AMRITA\source\repos\Get_Set\Get_Set\bin\Debug\Get_Set.pdb
+C:\Users\AMRITA\source\repos\Get_Set\Get_Set\obj\Debug\Get_Set.csproj.CoreCompileInputs.cache
+C:\Users\AMRITA\source\repos\Get_Set\Get_Set\obj\Debug\Get_Set.exe
+C:\Users\AMRITA\source\repos\Get_Set\Get_Set\obj\Debug\Get_Set.pdb

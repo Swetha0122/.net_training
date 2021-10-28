@@ -1,0 +1,14 @@
+C:\Users\AMRITA\source\repos\demoproject1\demoproject1\bin\Debug\netcoreapp3.1\demoproject1.exe
+C:\Users\AMRITA\source\repos\demoproject1\demoproject1\bin\Debug\netcoreapp3.1\demoproject1.deps.json
+C:\Users\AMRITA\source\repos\demoproject1\demoproject1\bin\Debug\netcoreapp3.1\demoproject1.runtimeconfig.json
+C:\Users\AMRITA\source\repos\demoproject1\demoproject1\bin\Debug\netcoreapp3.1\demoproject1.runtimeconfig.dev.json
+C:\Users\AMRITA\source\repos\demoproject1\demoproject1\bin\Debug\netcoreapp3.1\demoproject1.dll
+C:\Users\AMRITA\source\repos\demoproject1\demoproject1\bin\Debug\netcoreapp3.1\demoproject1.pdb
+C:\Users\AMRITA\source\repos\demoproject1\demoproject1\obj\Debug\netcoreapp3.1\demoproject1.csproj.AssemblyReference.cache
+C:\Users\AMRITA\source\repos\demoproject1\demoproject1\obj\Debug\netcoreapp3.1\demoproject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AMRITA\source\repos\demoproject1\demoproject1\obj\Debug\netcoreapp3.1\demoproject1.AssemblyInfoInputs.cache
+C:\Users\AMRITA\source\repos\demoproject1\demoproject1\obj\Debug\netcoreapp3.1\demoproject1.AssemblyInfo.cs
+C:\Users\AMRITA\source\repos\demoproject1\demoproject1\obj\Debug\netcoreapp3.1\demoproject1.csproj.CoreCompileInputs.cache
+C:\Users\AMRITA\source\repos\demoproject1\demoproject1\obj\Debug\netcoreapp3.1\demoproject1.dll
+C:\Users\AMRITA\source\repos\demoproject1\demoproject1\obj\Debug\netcoreapp3.1\demoproject1.pdb
+C:\Users\AMRITA\source\repos\demoproject1\demoproject1\obj\Debug\netcoreapp3.1\demoproject1.genruntimeconfig.cache
